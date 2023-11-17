@@ -1,1 +1,1 @@
-# Array practice
+# DSA Practice
